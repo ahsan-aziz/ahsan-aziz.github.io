@@ -1,0 +1,7 @@
+baseURL = 'https://ahsan-aziz.github.io'
+languageCode = 'en-au'
+title = "Ahsan's Blog"
+theme = "PaperMod"
+enableEmoji = true
+author = "Ahsan Aziz"
+description = "mostly security"
