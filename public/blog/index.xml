@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Ahsan&#39;s Blog</title>
+    <link>https://ahsan-aziz.github.io/blog/</link>
+    <description>Recent content in Blogs on Ahsan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Mon, 24 Jul 2023 07:10:07 -0400</lastBuildDate><atom:link href="https://ahsan-aziz.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Padding Oracle Attack</title>
+      <link>https://ahsan-aziz.github.io/blog/padding-oracle/</link>
+      <pubDate>Mon, 24 Jul 2023 07:10:07 -0400</pubDate>
+      
+      <guid>https://ahsan-aziz.github.io/blog/padding-oracle/</guid>
+      <description>Padding First, let&amp;rsquo;s discuss how padding works. We know that CBC mode encrypts data in blocks, and all blocks are of equal size. Before encryption, the plaintext is divided into blocks, and because the plaintext can be of arbitrary length, we need to add padding to match the block size. In PKCS#5, the final block of plaintext is padded with N bytes of value N. For example, for an 8-byte block, if the plaintext is of 3 bytes, 5 bytes of padding will be added (green is plaintext and yellow is padding): </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,3 +5,4 @@ theme = "PaperMod"
 enableEmoji = true
 author = "Ahsan Aziz"
 description = "mostly security"
+mainSections = ["blog"]
